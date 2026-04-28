@@ -1,6 +1,6 @@
 # Navigating the HDB Resale Market: A Data-Driven Approach to Valuations
 
-## The Challenge: A Complex Housing Hellish Landscape
+## The Challenge: A Complex Housing Landscape
 For most Singaporeans, purchasing a Housing & Development Board (HDB) resale flat is one of the most significant financial decisions of their lives. However, the resale market is complex and highly dynamic. Prices are influenced by a myriad of factors—ranging from the remaining lease and floor area to the proximity to MRT stations, shopping malls, and hawker centers. 
 
 For buyers, overpaying is a constant fear. For sellers, pricing a property too low leaves money on the table, while pricing it too high means it might sit on the market for months. 
